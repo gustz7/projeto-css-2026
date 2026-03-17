@@ -9,7 +9,7 @@ O projeto tem foco em experimentos com IA aplicada ao front-end, facilitando a c
 🚀 Preview
 
 🔗 Acesse online:
-(Coloque aqui o link quando publicar no GitHub Pages)
+https://github.com/gustz7/projeto-css-2026
 
 🛠 Tecnologias Utilizadas
 
